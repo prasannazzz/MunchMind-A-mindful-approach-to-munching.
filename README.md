@@ -5,7 +5,7 @@
 
 # 🍴 MunchMind: Revolutionizing Your Mealtime Habits with AI 🥗
 
-**MunchMind** is an innovative mobile application that leverages AI and wearable sensors to help users improve their eating habits. By analyzing real-time data, the app provides actionable feedback to ensure healthier, more mindful eating patterns. 
+**MunchMind** is an innovative mobile application that leverages AI and wearable sensors to help users improve their eating habits. By analyzing real-time data, the app provides actionable feedback to ensure healthier, more mindful eating patterns.. 
 
 ---
 

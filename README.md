@@ -88,7 +88,7 @@ Data encryption ensures secure storage and transmission, adhering to best privac
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/eatsmart.git  
+  
    ```  
 2. Open the project in Android Studio.  
 3. Build and run the app on an emulator or compatible Android device.  
@@ -122,7 +122,7 @@ This project will be licensed under the [MIT License](LICENSE).
 ## 📞 Contact  
 Feel free to reach out for questions, feedback, or collaboration opportunities:  
 - **Email**: proplayer14102004@gmail.com 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/prasanna-patil-3a1280269/)  
+- **LinkedIn**: [Prasanna Patil ](https://www.linkedin.com/in/prasanna-patil-3a1280269/)  
 
 
 ---

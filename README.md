@@ -86,10 +86,7 @@ Data encryption ensures secure storage and transmission, adhering to best privac
 - Compatible wearable device with accelerometer and gyroscope  
 
 ### Steps  
-1. Clone the repository:  
-   ```bash  
-  
-   ```  
+1. Clone the repository:    
 2. Open the project in Android Studio.  
 3. Build and run the app on an emulator or compatible Android device.  
 

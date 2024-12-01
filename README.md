@@ -1,7 +1,3 @@
-# MunchMind-A-mindful-approach-to-munching.
-
-
----
 
 # 🍴 MunchMind: Revolutionizing Your Mealtime Habits with AI 🥗
 
